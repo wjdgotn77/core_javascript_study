@@ -2,7 +2,7 @@
 
 자바스크립트의 동작원리를 이해하기 위해 코어자바스크립트 책을 읽으며 공부하는 모임입니다.
 
-Contributors : 강희원, 김정현, 박윤국, 진민욱, 정해수
+Contributors : 강희원, 김정현, 박윤국, 진민욱, <a href="https://github.com/wjdgotn77">정해수</a>
 
 ## 목차
 
